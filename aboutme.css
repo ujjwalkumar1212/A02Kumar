@@ -1,0 +1,46 @@
+
+body{
+	color: red;
+	background: url("images/pic.jpg");
+	background-size: 100%;
+}
+
+
+h1{
+	color: #9a2c40;
+	text-align: center;
+	font-family: "Tw Cen MT";
+	text-shadow: 2px 2px #c19b9b;
+}
+
+h3{
+	color: #5f3f5f;
+	font-family: calibri;
+	text-align: center;
+}
+
+img.img-circle {
+    height: 17em;
+    margin-top: 2em;
+}
+
+.description{
+	color: #711414;	
+	font-size: 15px;	
+	font-family: calibri; 
+	/* margin:0 200px 0 200px;  */
+}
+
+.section-heading{
+	font-family: Comic Sans MS;
+}
+
+footer{
+	color: #a0021e;
+	text-align: center;
+	font-family: "Tw Cen MT";
+	text-shadow: 2px 2px #c19b9b;
+	font-weight: 600;
+}
+
+
